@@ -6,7 +6,7 @@ This is a custom implementation of the singly linked list data structure library
 
 ## Library
 
-The singly linked list elements is implemented as a structure that contains a value of an element amd a pointer to the next one. To work with it, it is necessery to store pointer to the root (the first) element.
+The singly linked list elements are implemented as a structure that contains a value of an element amd a pointer to the next one. To work with it, it is necessery to store pointer to the root (the first) element.
 
 * The initialization function takes an element, creates a pointer to a list node, stores the value of the element in it, puts NULL as a pointer to the next element and returns a pointer to the node.
 
